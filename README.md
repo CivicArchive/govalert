@@ -199,4 +199,4 @@ You can add subscriptions:
 
 Copyright © 2013-2014
 Made possible by a generous grant from the Knight Foundation.
-Distributed under the Eclipse Public License, the same as Clojure.
+Distributed under the <a href="http://opensource.org/licenses/cddl1.php" target="_blank">Common Development and Distribution License</a> (CDDL) 
